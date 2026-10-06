@@ -6,8 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">##👋 Meu nome é Lothar<br><br>Estudante de de engenharia de software | Interesse na área de dados | Python - Excel - My SQL<br><br>##🎓 Formação<br><br>Curso: Engenharia de Software<br>Instituição: Universidade Positivo<br><br>##✨ Projeto destaque</p>
-
+<p data-importer="text" align="left">##👋 Meu nome é Lothar<br><br>Estudante de de engenharia de software | Interesse na área de dados | Python - Excel - My SQL<br><br>##🎓 Formação<br><br>Curso: Engenharia de Software<br>Instituição: Universidade Positivo<br><br>
 ###
 
 <h2 data-importer="text" align="left">Minhas principais ferramentas</h2>
